@@ -1,2 +1,2 @@
 # CSCE-146
-This repository contains all of the programming assignments and labs I wrote while enrolled in the CSCE 146 course at USC.
+Each programming assignment and project has it's own folder. You can find the Java files under the src folder of each directory.
